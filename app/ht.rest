@@ -10,3 +10,7 @@ GET http://localhost:5000/api/admin/scrape HTTP/1.1
 
 ###
 GET http://localhost:5000/api/admin/posts/count HTTP/1.1
+
+###
+
+GET https://backend.abdoul54.repl.co/api/search/Vehicle/casa HTTP/1.1
